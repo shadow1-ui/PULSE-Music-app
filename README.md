@@ -1,3 +1,3 @@
 # PULSE-Music-app
 A music app that might become your favorite.
-Website: soon...
+Website: https://music.pulse-apps.workers.dev
