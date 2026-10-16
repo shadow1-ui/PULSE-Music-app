@@ -13,7 +13,7 @@ So I decided to put everything I was missing in one place. That's how PULSE happ
 <p align="center">
 <a href="https://github.com/shadow1-ui/PULSE-Music-app/releases/latest"><img src="https://img.shields.io/badge/Android-download-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android"></a>
 <a href="https://github.com/shadow1-ui/PULSE-Music-app/releases/latest"><img src="https://img.shields.io/badge/Windows-download-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
-<a href="https://pulse.new.tg"><img src="https://img.shields.io/badge/Browser-open-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open in browser"></a>
+<a href="https://music.pulse-apps.workers.dev"><img src="https://img.shields.io/badge/Browser-open-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open in browser"></a>
 </p>
 <p align="center">Free · <a href="https://github.com/shadow1-ui/PULSE-Music-app/releases/latest">latest version</a></p>
 
@@ -55,7 +55,7 @@ Can't decide? Hit 🎲 and it'll put together a random style for you.
 
 **Windows.** Download `PULSE-Setup-x.x.x.exe` and run it. If a blue Windows window pops up, click "More info" → "Run anyway".
 
-**Browser.** Just open the [web version](https://pulse.new.tg), nothing to install.
+**Browser.** Just open the [web version](https://music.pulse-apps.workers.dev), nothing to install.
 
 No need to update by hand: PULSE notices a new version on its own and offers to install it.
 
