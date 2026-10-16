@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://github.com/shadow1-ui/PULSE-Music-app/releases/latest"><img src="https://img.shields.io/badge/Android-скачать-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Скачать для Android"></a>
 <a href="https://github.com/shadow1-ui/PULSE-Music-app/releases/latest"><img src="https://img.shields.io/badge/Windows-скачать-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать для Windows"></a>
-<a href="https://music.pulse-apps.workers.dev"><img src="https://img.shields.io/badge/Браузер-открыть-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Открыть в браузере"></a>
+<a href="https://pulse.new.tg"><img src="https://img.shields.io/badge/Браузер-открыть-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Открыть в браузере"></a>
 </p>
 <p align="center">Бесплатно · <a href="https://github.com/shadow1-ui/PULSE-Music-app/releases/latest">последняя версия</a></p>
 
@@ -55,7 +55,7 @@
 
 **Windows.** Скачайте `PULSE-Setup-x.x.x.exe` и запустите. Если появится синее окно Windows, нажмите «Подробнее» → «Выполнить в любом случае».
 
-**Браузер.** Просто откройте [веб-версию](https://music.pulse-apps.workers.dev), ничего ставить не нужно.
+**Браузер.** Просто откройте [веб-версию](https://pulse.new.tg), ничего ставить не нужно.
 
 Обновлять вручную не нужно: PULSE сам заметит новую версию и предложит её поставить.
 
